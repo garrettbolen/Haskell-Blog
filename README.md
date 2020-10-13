@@ -1,5 +1,5 @@
 # Haskell-Blog
-This is a blog created by Garrett Bolen to help people learn how to use the programming language Haskell.
+This is a blog created by Garrett Bolen for people learning the programming language Haskell.
 
 Table of contents:
 
