@@ -5,7 +5,7 @@ To install Haskell on Windows, instructions are provided at https://www.haskell.
 
 ### Step 2: Installing Haskell
 After the installation completes, you may run these commands at an elevated command prompt to install Haskell:
-`choco install haskell-dev`and
+`choco install haskell-dev` and
 `refreshenv`
 ### Step 3: Installing GHC
 Using Chocolatey, we will also install ghc via this command:
