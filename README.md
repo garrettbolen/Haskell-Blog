@@ -10,3 +10,5 @@ Table of contents:
 [Entry 3: The basics of Haskell](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry3.md)
 
 [Entry 4: Resources for learning Haskell](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry4.md)
+
+[Entry 5: Haskell vs Python](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry5.md)
