@@ -8,3 +8,5 @@ Table of contents:
 [Entry 2: Functional programming](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry2.md)
 
 [Entry 3: The basics of Haskell](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry3.md)
+
+[Entry 4: Resources for learning Haskell](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry4.md)
