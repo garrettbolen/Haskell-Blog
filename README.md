@@ -12,3 +12,6 @@ Table of contents:
 [Entry 4: Resources for learning Haskell](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry4.md)
 
 [Entry 5: Haskell vs Python](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry5.md)
+
+[Entry 6: Recursion](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry6.md)
+
