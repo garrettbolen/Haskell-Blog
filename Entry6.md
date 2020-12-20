@@ -34,6 +34,7 @@ It is clear that if one dimension of the grid is equal to one then there is only
 `paths(n, m) -> 1 if n = 1 or m = 1`.
 Here is a visualization of more potential cases:
 ![Grids](https://github.com/garrettbolen/Haskell-Blog/blob/main/images/Screenshot%202020-12-19%20222915.png)
+
 Notice that the total number of paths of the 3x3 grid can be found by adding the number of 2x3 paths to the number of 3x2 paths. You will find that this pattern holds true for larger grids as well. We can generalize this pattern like so:
 `paths(n, m) -> paths(n, m - 1) + paths(n - 1, m)`
 If we combine the base case and pattern we can write the code in Haskell:
