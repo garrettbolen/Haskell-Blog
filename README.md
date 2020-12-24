@@ -16,3 +16,5 @@ Table of contents:
 [Entry 6: Recursion](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry6.md)
 
 [Entry 7: Why Haskell?](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry7.md)
+
+[Entry 8: Useful Haskell Packages](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry8.md)
