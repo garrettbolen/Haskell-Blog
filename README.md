@@ -18,3 +18,5 @@ Table of contents:
 [Entry 7: Why Haskell?](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry7.md)
 
 [Entry 8: Useful Haskell Packages](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry8.md)
+
+[Entry 9: Multi-paradigm Languages](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry9.md)
