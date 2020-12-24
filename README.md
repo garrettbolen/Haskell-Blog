@@ -20,3 +20,5 @@ Table of contents:
 [Entry 8: Useful Haskell Packages](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry8.md)
 
 [Entry 9: Multi-paradigm Languages](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry9.md)
+
+[Entry 10: The Halting Problem](https://github.com/garrettbolen/Haskell-Blog/blob/main/Entry10.md)
