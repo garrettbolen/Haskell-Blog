@@ -1,0 +1,6 @@
+# Entry 9: Multi-paradigm Languages
+A multi-paradigm programming language is a programming language that supports several different programming paradigms such as imperative, function and object-oriented. Haskell is (essentially) a purely function language and does not support several paradigms, but in this blog I would like to discuss the advantages of those languages that do such as Python and C++.
+
+Multi-paradigm programming allows users to have the freedom to choose whichever programming paradigm best fits whatever piece of code they are trying to write. An advantage of this is that the programmer does not have to adhere to a rigid set of rules if it doesn't make sense to do so for a particular problem that they are trying to solve. For example, in object-oriented programming everything must be contained within an object. In programs that need to reuse several different components it works wonderfully, but for simpler programs it may just unnecessarily complicate things.
+
+Likewise, purely functional programming like in Haskell may not be so practical for every application despite having the ability to produce elegant and concise solutions to certain problems. In the event of a project that has a variety of needs, multi-paradigm languages allow for programmers to utilize the best aspects of several paradigms.
